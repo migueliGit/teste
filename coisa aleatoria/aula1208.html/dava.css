@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(230, 201, 148);
+    animation-range-start: inherit;
+}
+p{
+    font-size: larger;
+}
+.nerd{
+   height: 300px;
+   width: 300px;
+   float: right;
+   right: auto;
+   left: auto;
+}
